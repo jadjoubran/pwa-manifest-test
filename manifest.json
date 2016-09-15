@@ -1,6 +1,8 @@
 {
   "short_name": "Foursquare",
   "name": "Foursquare - Discover places",
+  "theme_color": "#DB2A58",
+  "background_color": "#0732A2",
   "icons": [
     {
       "src": "icons/foursquare.png",
