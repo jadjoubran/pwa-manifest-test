@@ -1,0 +1,13 @@
+{
+  "short_name": "Foursquare",
+  "name": "Foursquare - Discover places",
+  "icons": [
+    {
+      "src": "icons/foursquare.png",
+      "sizes": "96x96"
+    }
+  ],
+  "start_url": "/index.html?homescreen=1",
+  "display": "standalone",
+  "orientation": "landscape"
+}
