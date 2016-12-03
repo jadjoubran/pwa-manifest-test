@@ -9,7 +9,7 @@
       "sizes": "96x96"
     }
   ],
-  "start_url": "/index.html?homescreen=1",
+  "start_url": "index.html?homescreen=1",
   "display": "standalone",
   "orientation": "portrait"
 }
